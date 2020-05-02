@@ -93,6 +93,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this list
+* [Jordan Monk's Solution (Easy)](https://github.com/frozenraccoon/google-homepage) - [View in Browser](https://frozenraccoon.github.io/google-homepage/)
 * [Dean Oh's Solution (Easy)](https://github.com/JuicyMelon/google-demo) - [View in Browser](https://juicymelon.github.io/google-demo/)
 * [Neeraj Gupta's Solution (Difficult)](https://github.com/neerajgupta041/google-search-page-hard) - [View In Browser](https://neerajgupta041.github.io/google-search-page-hard/)
 * [LornaP's Solution (Easy)](https://github.com/LornaP5/google-homepage) - [View In Browser](https://LornaP5.github.io/google-homepage/)
